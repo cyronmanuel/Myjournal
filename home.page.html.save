@@ -1,0 +1,3 @@
+sudo chown -R yourusername:yourusername /path/to/ionic/project
+
+
